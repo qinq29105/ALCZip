@@ -7,7 +7,6 @@
 - **Semantic Simplification:** Introduces semantic simplification in lossless text compression, the first of its kind, enabling better handling of complex data structures.
 - **High Compression Ratios:** Achieves substantial data reduction while maintaining high-quality output, suitable for long-term storage and bandwidth optimization.
 - **Adaptability:** Can be applied to diverse datasets, particularly those involving intricate structures or specialized terminology (e.g., legal, scientific documents).
-- **Open-Source:** The code is open-source and available for further research and development.
 
 ## Installation
 
