@@ -1,6 +1,3 @@
-# ALCZip
-
-content = """
 # ALCZip: Fully Exploitation of Large models in Lossless Text Compression
 
 **ALCZip** is a novel compression method that integrates large language models (LLMs) with traditional techniques to enhance the compression of semantically complex data. ALCZip employs an adaptive approach to incorporate LLMs into Huffman coding, significantly improving compression speed compared to other LLM-based methods, such as LLMZip and FineZip. It is among the first to use LLMs for constructing adaptive dictionaries of letter combinations of varying lengths, resulting in more efficient compression. Additionally, ALCZip successfully applies semantic simplification to text compression, marking a first in lossless text compression. Through experiments on the Game of Thrones text, we demonstrate that ALCZip achieves superior compression ratios. While it incurs higher computational costs, ALCZip outperforms other LLM-based methods in both compression and decompression times, advancing the application of LLMs in compression. The trade-off between compression efficiency and computational time is discussed, with ALCZip being particularly suited for scenarios requiring substantial data reduction.
