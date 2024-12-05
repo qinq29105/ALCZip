@@ -10,7 +10,7 @@
 
 ## Installation
 
-Detailed codes are stored in master branch. To use ALCZip, please refer to the readme in that folder. Simply clone the repository to your local machine to access **ALCZip**:
+To use ALCZip, please refer to the readme in that folder. Simply clone the repository to your local machine to access **ALCZip**:
 
 ```bash
 git clone https://github.com/qinq29105/ALCZip.git
